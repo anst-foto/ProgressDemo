@@ -10,4 +10,3 @@ namespace ProgressDemo;
 public partial class App : Application
 {
 }
-
